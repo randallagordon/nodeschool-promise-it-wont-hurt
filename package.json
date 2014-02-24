@@ -1,0 +1,9 @@
+{
+  "description": "My solutions for Nodeschool.io's promise-it-wont-hurt",
+  "repository": "https://github.com/randallagordon/nodeschool-promise-it-wont-hurt",
+  "dependencies": {
+    "q": "~1.0.0",
+    "q-io": "~1.10.9",
+    "lodash": "~2.4.1"
+  }
+}
